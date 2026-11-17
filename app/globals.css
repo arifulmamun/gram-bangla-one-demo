@@ -1,0 +1,6 @@
+*{box-sizing:border-box} body{margin:0;font-family:system-ui,Arial} a{color:inherit} button{cursor:pointer} .container{max-width:1100px;margin:0 auto;padding:0 16px} .btn{padding:12px 20px;border-radius:10px;border:0;font-weight:700} .btn-orange{background:#FF7A00;color:#fff} .btn-green{background:#0B5D2A;color:#fff} .btn-white{background:#fff;color:#0B5D2A} .card{background:#fff;border-radius:16px;padding:20px;box-shadow:0 4px 20px rgba(0,0,0,.06)} input,select{width:100%;padding:12px;border:1px solid #ddd;border-radius:10px;margin-top:6px} label{font-weight:600;font-size:14px} table{width:100%;border-collapse:collapse} th,td{padding:10px;text-align:left;border-bottom:1px solid #eee;font-size:14px} .badge{padding:4px 10px;border-radius:20px;font-size:12px;font-weight:700} .New{background:#FFE4C7;color:#9A4A00} .Called{background:#D9E8FF;color:#1A4FA0} .Confirmed{background:#D9F5E0;color:#0B5D2A}
+.btn { border: none; cursor: pointer; border-radius: 8px; font-weight: 700; }
+.btn-orange { background: #FF7A00; color: #fff; }
+.btn-green { background: #0B5D2A; color: #fff; }
+.btn-white { background: #fff; color: #0B5D2A; }
+input, select { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; margin-top: 6px; box-sizing: border-box; }
